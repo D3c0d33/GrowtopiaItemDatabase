@@ -9121,3 +9121,105 @@
 9113|Dumb Tomb of Growganoth Claimed Seed|999|NoSeed|Seed|000000|000000|20|0|None
 9114|Nightmare Teeny Devil Wings|999|NoSeed|Clothing|3B0D48|78218F|0|3600|Back
 9115|Nightmare Teeny Devil Wings Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9116|Red Laser Scimitar|999|NoSeed|Clothing|707070|EE1E3B|0|3600|Hand
+9117|Red Laser Scimitar Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9118|Green Laser Scimitar|999|NoSeed|Clothing|707070|5FE30F|0|3600|Hand
+9119|Green Laser Scimitar Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9120|Blue Laser Scimitar|999|NoSeed|Clothing|707070|0BB5FF|0|3600|Hand
+9121|Blue Laser Scimitar Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9122|Purple Laser Scimitar|999|NoSeed|Clothing|707070|F103E7|0|3600|Hand
+9123|Purple Laser Scimitar Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9124|Wolfy Tank Top|999|NoSeed|Clothing|93388F|C7CFDD|0|3600|Shirt
+9125|Wolfy Tank Top Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9126|Dinner Bell|999|NoSeed|Foreground_Block|2A2F4E|E69824|10|3600|None
+9127|Dinner Bell Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9128|Hay Chair|999|NoSeed, MultiFacing|Foreground_Block|946939|EDC76C|4|3600|None
+9129|Hay Chair Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9130|Thanksgiving Frame|999|NoSeed|Background_Block|AF2F26|FFDD21|4|3600|None
+9131|Thanksgiving Frame Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9132|Turkey Hat|999|NoSeed|Clothing|983919|FEF224|0|3600|Hat
+9133|Turkey Hat Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9134|Riding Bell|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DC309D|00E84C|0|31|None
+9135|Riding Bell Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9136|null_item9136|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9137|null_item9136 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9138|null_item9138|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9139|null_item9138 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9140|null_item9140|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9141|null_item9140 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9142|null_item9142|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9143|null_item9142 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9144|null_item9144|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9145|null_item9144 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9146|null_item9146|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9147|null_item9146 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9148|null_item9148|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9149|null_item9148 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9150|null_item9150|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9151|null_item9150 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9152|null_item9152|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9153|null_item9152 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9154|null_item9154|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9155|null_item9154 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9156|null_item9156|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9157|null_item9156 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9158|null_item9158|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9159|null_item9158 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9160|null_item9160|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9161|null_item9160 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9162|null_item9162|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9163|null_item9162 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9164|null_item9164|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9165|null_item9164 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9166|null_item9166|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9167|null_item9166 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9168|null_item9168|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9169|null_item9168 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9170|null_item9170|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9171|null_item9170 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9172|null_item9172|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9173|null_item9172 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9174|null_item9174|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9175|null_item9174 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9176|null_item9176|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9177|null_item9176 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9178|null_item9178|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9179|null_item9178 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9180|null_item9180|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9181|null_item9180 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9182|null_item9182|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9183|null_item9182 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9184|null_item9184|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9185|null_item9184 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9186|null_item9186|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9187|null_item9186 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9188|null_item9188|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9189|null_item9188 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9190|null_item9190|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9191|null_item9190 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9192|null_item9192|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9193|null_item9192 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9194|null_item9194|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9195|null_item9194 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9196|null_item9196|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9197|null_item9196 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9198|null_item9198|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9199|null_item9198 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9200|null_item9200|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9201|null_item9200 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9202|null_item9202|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9203|null_item9202 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9204|null_item9204|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9205|null_item9204 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9206|null_item9206|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9207|null_item9206 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9208|null_item9208|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9209|null_item9208 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9210|null_item9210|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9211|null_item9210 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9212|null_item9212|1|NoSeed, Beta, Mod|Foreground_Block|000000|000000|20|0|None
+9213|null_item9212 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9214|Legendary Clash Key & Finale Ticket|999|NoSeed, Mod||79ECFF|20AFFF|1|3600|
+9215|Legendary Clash Key & Finale Ticket Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9216|Winter Clash Finale Ticket|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DC309D|00E84C|0|31|None
+9217|Winter Clash Finale Ticket Seed|999|NoSeed|Seed|000000|000000|20|0|None
