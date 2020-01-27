@@ -9223,3 +9223,91 @@
 9215|Legendary Clash Key & Finale Ticket Seed|999|NoSeed|Seed|000000|000000|20|0|None
 9216|Winter Clash Finale Ticket|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DC309D|00E84C|0|31|None
 9217|Winter Clash Finale Ticket Seed|999|NoSeed|Seed|000000|000000|20|0|None
+9218|null_item9218|1|NoSeed,Permanent,Beta,Mod|Foreground_Block|59766B|7687B1|0|31|None
+9219|null_item9218 Seed|1|Permanent,Beta,Mod|Seed|000000|000000|20|0|None
+9220|null_item9220|1|NoSeed,Permanent,Beta,Mod|Foreground_Block|507547|5F9CBE|0|31|None
+9221|null_item9220 Seed|1|Permanent,Beta,Mod|Seed|000000|000000|20|0|None
+9222|null_item9222|1|NoSeed,Permanent,Beta,Mod|Foreground_Block|DD149E|D46C6A|0|31|None
+9223|null_item9222 Seed|1|Permanent,Beta,Mod|Seed|000000|000000|20|20864|None
+9224|Winterfest Calendar - 2019|999|NoSeed,Permanent,WorldLock|Provider|A9152D|65E534|42|3600|None
+9225|Winterfest Calendar - 2019 Seed|999|Permanent|Seed|000000|000000|20|0|None
+9226|Used Winterfest Calendar - 2019|999|Dropless,NoSeed,Permanent,WorldLock,AutoPickup|Foreground_Block|A9152D|65E534|6|3600|None
+9227|Used Winterfest Calendar - 2019 Seed|999|Permanent|Seed|000000|000000|20|0|None
+9228|Dummy Item for VIP Effect|999|NoSeed,Permanent|Consummable|F89EFB|59B5F1|3|3600|None
+9229|Dummy Item for VIP Effect Seed|999|Permanent|Seed|000000|000000|20|0|None
+9230|Dummy Transmutation Icon|999|NoSeed,Permanent,Mod|Foreground_Block|DB3FFD|000000|3|3600|None
+9231|Dummy Transmutation Icon Seed|999|Permanent,Mod|Seed|000000|000000|20|0|None
+9232|Dummy Transmutation Temp Icon|999|NoSeed,Permanent,Mod|Foreground_Block|3258ED|000000|3|3600|None
+9233|Dummy Transmutation Temp Icon Seed|999|Permanent,Mod|Seed|000000|000000|20|0|None
+9234|Balloon Target|1|NoSeed,Permanent,Mod|Foreground_Block|12D9F4|EF3658|3|31|None
+9235|Balloon Target Seed|1|Permanent,Mod|Seed|000000|000000|20|0|None
+9236|Ancient Shards|999|NoSeed,Permanent|Artifact|FF1BD7|FFD907|0|3600|None
+9237|Ancient Shards Seed|999|Permanent|Seed|000000|000000|20|0|None
+9238|Flower Pot|999|NoSeed,Permanent|Clothing|C7CFDD|F0B0DE|0|3600|Hand
+9239|Flower Pot Seed|999|Permanent|Seed|000000|000000|20|0|None
+9240|Coin: 7th Anniversary Block|999|Wrenchable,NoSeed,Permanent|Gravity_Well|DB8856|C47240|8|3600|None
+9241|Coin: 7th Anniversary Block Seed|999|Permanent|Seed|000000|000000|20|0|None
+9242|Rave Haze Light|999|Wrenchable,NoSeed,Permanent|Gravity_Well|FFD615|FF00FF|5|3600|None
+9243|Rave Haze Light Seed|999|Permanent|Seed|000000|000000|20|0|None
+9244|Rave Hall Wall|999|NoSeed,Permanent|Background_Block|B39A61|D8DC0B|5|3600|None
+9245|Rave Hall Wall Seed|999|Permanent|Seed|000000|000000|20|0|None
+9246|Rave Hall Floor|999|NoSeed,Permanent|Foreground_Block|7E766B|FF0BDF|8|3600|None
+9247|Rave Hall Floor Seed|999|Permanent|Seed|000000|000000|20|0|None
+9248|Rave Stage|999|NoSeed,Permanent|Foreground_Block|777675|FF33EA|8|3600|None
+9249|Rave Stage Seed|999|Permanent|Seed|000000|000000|20|0|None
+9250|Superstar Shades|999|NoSeed,Permanent,Untradable|Clothing|FFD90B|DE46CB|0|3600|Face
+9251|Superstar Shades Seed|999|Permanent|Seed|000000|000000|20|0|None
+9252|Confetti Rocket Shoes|999|NoSeed,Permanent|Clothing|3DD810|FF0BDF|0|3600|Feet
+9253|Confetti Rocket Shoes Seed|999|Permanent|Seed|000000|000000|20|0|None
+9254|Euphoric Dragon|999|NoSeed,Permanent|Clothing|3DD810|FF0BDF|0|3600|Chest
+9255|Euphoric Dragon Seed|999|Permanent|Seed|000000|000000|20|0|None
+9256|Party Bubble Blaster|999|NoSeed,Permanent|Clothing|3DD810|FF0BDF|0|3600|Hand
+9257|Party Bubble Blaster Seed|999|Permanent|Seed|000000|000000|20|0|None
+9258|Raver Hoodie|999|NoSeed,Permanent|Clothing|FF0BDF|04EC48|0|3600|Shirt
+9259|Raver Hoodie Seed|999|Permanent|Seed|000000|000000|20|0|None
+9260|Raver Pants|999|NoSeed,Permanent|Clothing|3DD810|FF0BDF|0|3600|Pants
+9261|Raver Pants Seed|999|Permanent|Seed|000000|000000|20|0|None
+9262|Raver Hair|999|NoSeed,Permanent|Clothing|3DD810|FF0BDF|0|3600|Hair
+9263|Raver Hair Seed|999|Permanent|Seed|000000|000000|20|0|None
+9264|Anniversary Skyrocket|999|NoSeed,Permanent|Consummable|3DD810|FF0BDF|3|3600|None
+9265|Anniversary Skyrocket Seed|999|Permanent|Seed|000000|000000|20|0|None
+9266|1-Day Free Subscription Token|999|NoSeed,Permanent|Consummable|D77D3F|FEBC7F|5|3600|None
+9267|1-Day Free Subscription Token Seed|999|Permanent|Seed|000000|000000|20|0|None
+9268|DigiVend Machine|999|Wrenchable,Dropless,WorldLock,AutoPickup|Vending|4A4D54|C8CCD5|10|3600|None
+9269|DigiVend Machine Seed|999|0|Seed|000000|000000|20|0|None
+9270|Vending Hub - Checkout Counter|999|Wrenchable,Dropless,WorldLock,AutoPickup|Foreground_Block|98A0B1|0084E7|10|3600|None
+9271|Vending Hub - Checkout Counter Seed|999|0|Seed|000000|000000|20|0|None
+9272|Draconic Claw|999|NoSeed,Permanent|Clothing|C42430|EA323C|0|150|Hand
+9273|Draconic Claw Seed|999|Permanent|Seed|000000|000000|20|0|None
+9274|Black Friday 2019 Cart - Bronze|999|Dropless,NoSeed,Permanent,AutoPickup|Foreground_Block|AD5931|D29141|3|3600|None
+9275|Black Friday 2019 Cart - Bronze Seed|999|Permanent|Seed|000000|000000|20|0|None
+9276|Black Friday 2019 Cart - Silver|999|Dropless,NoSeed,Permanent,AutoPickup|Foreground_Block|6986A2|C9D1DA|3|3600|None
+9277|Black Friday 2019 Cart - Silver Seed|999|Permanent|Seed|000000|000000|20|0|None
+9278|Black Friday 2019 Cart - Gold|999|Dropless,NoSeed,Permanent,AutoPickup|Foreground_Block|FFF115|FFFEE9|3|3600|None
+9279|Black Friday 2019 Cart - Gold Seed|999|Permanent|Seed|000000|000000|20|0|None
+9280|Jin Chan Leash|999|NoSeed,Permanent|Clothing|AC781C|E1EA39|0|3600|Hand
+9281|Jin Chan Leash Seed|999|Permanent|Seed|000000|000000|20|0|None
+9282|Huli Jing Scarf|999|NoSeed,Permanent|Clothing|FADFB3|C42430|0|3600|Chest
+9283|Huli Jing Scarf Seed|999|Permanent|Seed|000000|000000|20|0|None
+9284|Year of The Rat Statue|999|NoSeed,Permanent,MultiFacing|Foreground_Block|A1A1A1|D7D7D7|3|3600|None
+9285|Year of The Rat Statue Seed|999|Permanent|Seed|000000|000000|20|0|None
+9286|Lucky Fortune Cookie|45|NoSeed,Permanent,Holiday|Consummable|FFE83A|D81A2F|1|20864|None
+9287|Lucky Fortune Cookie Seed|45|Permanent,Holiday|Seed|000000|000000|20|0|None
+9288|Year of the Rat Lucky Token|50|Wrenchable,NoSeed,Permanent,Holiday|Ticket|FFE83A|D81A2F|3|41728|None
+9289|Year of the Rat Lucky Token Seed|50|Permanent,Holiday|Seed|000000|000000|20|0|None
+9290|Red Coin Wallpaper|999|NoSeed,Permanent|Background_Block|C42430|CC920B|3|3600|None
+9291|Red Coin Wallpaper Seed|999|Permanent|Seed|000000|000000|20|0|None
+9292|Year of the Rat Mask|999|NoSeed,Permanent|Clothing|C42430|FCEFEE|0|3600|Face
+9293|Year of the Rat Mask Seed|999|Permanent|Seed|000000|000000|20|0|None
+9294|Emperor's Jacket|999|NoSeed,Permanent|Clothing|891E2B|F8D50D|0|3600|Shirt
+9295|Emperor's Jacket Seed|999|Permanent|Seed|000000|000000|20|0|None
+9296|Dummy Item for Checkout Counter Dialog|999|NoSeed,Permanent,Untradable,Mod|Component|F89EFB|59B5F1|3|3600|None
+9297|Dummy Item for Checkout Counter Dialog Seed|999|Permanent,Mod|Seed|000000|000000|20|0|None
+9298|WOTD Trophy 2020|999|Dropless,AutoPickup|Foreground_Block|FFB007|FFE84B|10|3600|None
+9299|WOTD Trophy 2020 Seed|999|0|Seed|000000|000000|20|0|None
+9300|Euphoric Dragon Egg|999|NoSeed,Permanent|Foreground_Block|FFD90B|FC4ADA|9|3600|None
+9301|Euphoric Dragon Egg Seed|999|Permanent|Seed|000000|000000|20|62592|None
+9302|Hatching Euphoric Dragon Egg|999|NoSeed,Permanent|Provider|FFD90B|FC4ADA|9|3600|None
+9303|Hatching Euphoric Dragon Egg Seed|999|Permanent|Seed|000000|000000|20|0|None
+9304|Brutal Hand Fans|999|NoSeed,Permanent|Clothing|EA323C|252525|0|3600|Hand
+9305|Brutal Hand Fans Seed|999|Permanent|Seed|690000|690000|20|31|None
